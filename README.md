@@ -1,51 +1,18 @@
 # The-school-analysis
+
 ## Overview of Project
-List of deliverables for the analysis of the school district: 
-* A high-level snapshot of the district's key metrics
-* An overview of the key metrics for each school
-* Tables presenting each of the following metrics:
-    * Top 5 and bottom 5 performing schools, based on the overall passing rate
-    * The average math score received by students in each grade level at each school
-    * The average reading score received by students in each grade level at each school
-    * School performance based on the budget per student
-    * School performance based on the school size 
-    * School performance based on the type of school
-## Deliverable 1: Replace the reading and math scores.
 
-## Analysis Results
-![Step_2](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_2.png)
-![Step_3](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_3.png)
-![Step_4](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_4.png)
-![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/top5_low 5.png)
-## Deliverable 2 : Repeat the school district analysis
+The school district discovered that the standardized test scores for ninth grade students at Thomas High School were incorrect, and they requested for updated data summaries. After further discussion, it was best to only replace the ninth grade math and reading scores at Thomas High School while keeping all other data associated with this student group intact.
 
-
-## District Summary
-Since all of the ninth graders from Thomas High School had their scores replaced the particular focus of the analysis re-run was the
-focus on how this adjustment affected the school district analysis was altered. Primary areas of focus were:
-
-* Average math and reading scores at Thomas High School
-* Percentage of students passing according to math scores
-* Percentage of students passing according to reading scores
-* Overall percentage of students who passed both math and reading
-* Percentage passing math, reading, and overall by budget per student
-* Percentage passing math, reading, and overall by school size
-* Placement of schools overall by score values relative to each other
+Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
 
 ## School Summary
-
 ## Math and Reading Scores by Grade
 # School_District_Analysis
-School District Analysis using"
+## Resources
 **"Jupyter Notebook, 
 **Pandas
 **Python
-
-
-
-## Resources
-* Data Source: `PyCitySchools.ipynb` file 
-* Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas
 
 ## Deliverable 1: Replace Ninth-Grade Reading and Math Scores
 
@@ -63,7 +30,7 @@ School District Analysis using"
  
 ### Deliverable 2 Results with detail analysis:
 **1. The district summary DataFrame.**
-> Image with `Python`, `Jupyter Notebook` and `Pandas` Code below.
+
 
 ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.2.PNG)
 
@@ -171,5 +138,5 @@ School District Analysis using"
 3. **Summary:** 
 Overall Passing marks changes and difference for each students funding is ~ $200). 
 Updated School_District_Analysis Reading and Math Scores from Thomas High School 9th Grade have been replaced with NaNs.
- 
+In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
 
