@@ -64,7 +64,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 **8. The scores by school size.**
 
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.9.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.9.PNG)
 
 **9. The scores by school type.**
 
