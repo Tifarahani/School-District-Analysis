@@ -24,13 +24,13 @@ focus on how this adjustment affected the school district analysis was altered. 
 
 ## School Summary
 
-## High and Low Performing Schools
 
-![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
 
 ## Math and Reading Scores by Grade
 ## Scores by School Spending
+## High and Low Performing Schools
 
+![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
 ##  Scores by School Size
 ## Scores by School Type
 
