@@ -49,7 +49,7 @@ List of deliverables for the analysis of the school district:
 
 ## Deliverable 1: Replace Ninth-Grade Reading and Math Scores
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.1.PNG)
+![name-of-you-image](https://github.com/Dorislava/School_District_Analysis/blob/main/4.1.PNG)
 
 
 ## Deliverable 2: Repeat the School District Analysis
@@ -168,7 +168,7 @@ List of deliverables for the analysis of the school district:
      
  ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.17.PNG)
  
- ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.18.PNG)
+ ![name-of-you-image](https://github.com/Dorislava/School_District_Analysis/blob/main//4.18.PNG)
      
 3. **Summary:** 
 Overall Passing marks changes and difference for each students funding is ~ $200). 
