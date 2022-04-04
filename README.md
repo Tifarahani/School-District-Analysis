@@ -49,7 +49,9 @@ These are the screenshot images of the metrics before and after the Thomas High 
 
 As the data adjustment affected the scores of the ninth-graders but did not remove them from the count of the school students, the total number of students in the district should not have been altered.
 
+
 - **Total Budget**
+
 ![Spending_Summary](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/ResourcesSpending_Summary.png)
 
 As the data adjustment dealt with the scores of students and did not alter the budgets of schools, the total budget value remained unaffected by the data adjustment.
