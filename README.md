@@ -7,6 +7,7 @@
 ![Step_2](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_2.png)
 ![Step_3](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_3.png)
 ![Step_4](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_4.png)
+![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
 ## Deliverable 2 : Repeat the school district analysis
 
 
@@ -30,7 +31,7 @@ focus on how this adjustment affected the school district analysis was altered. 
 ## Scores by School Spending
 ## High and Low Performing Schools
 
-![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
+
 ##  Scores by School Size
 ## Scores by School Type
 
