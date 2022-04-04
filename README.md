@@ -115,7 +115,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
        
 **After Cleanup - THS count()**
 
-![4.15](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.15.PNG)
+![4.15](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.15.PNG)
 
 * Scores by school size
 
@@ -125,11 +125,11 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
         
  **School Size"**
      
- ![4.16](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.16.PNG)
+ ![4.16](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.16.PNG)
     
   **THS Spending Bin "$630-644"**
      
- ![4.17](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.17.PNG)
+ ![4.17](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources.PNG)
  
  ![4.18](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.18.PNG)
      
