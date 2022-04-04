@@ -28,7 +28,7 @@ focus on how this adjustment affected the school district analysis was altered. 
 ## School Summary
 
 ## High and Low Performing Schools
-![top5_low 5] (https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
+![top5_low 5](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/top5_low 5.png)
 ## Math and Reading Scores by Grade
 ## Scores by School Spending
 
@@ -44,9 +44,9 @@ focus on how this adjustment affected the school district analysis was altered. 
 
 These are the screenshot images of the metrics before and after the Thomas High School alterations.
 
-![School_District_Analysis_THS_original_ouput] (https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources//School_District_Analysis_THS_original_ouput.png)
+![School_District_Analysis_THS_original_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources//School_District_Analysis_THS_original_ouput.png)
 
-![THS_modified_ouput] (https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources//THS_modified_ouputiginal_ouput.png)
+![THS_modified_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources//THS_modified_ouputiginal_ouput.png)
 - **Total Students**
 
 As the data adjustment affected the scores of the ninth-graders but did not remove them from the count of the school students, the total number of students in the district should not have been altered.
