@@ -14,6 +14,16 @@
 ![Step_4](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/Step_4.png)
 
 ## District Summary
+Since all of the ninth graders from Thomas High School had their scores replaced the particular focus of the analysis re-run was the
+focus on how this adjustment affected the school district analysis was altered. Primary areas of focus were:
+
+* Average math and reading scores at Thomas High School
+* Percentage of students passing according to math scores
+* Percentage of students passing according to reading scores
+* Overall percentage of students who passed both math and reading
+* Percentage passing math, reading, and overall by budget per student
+* Percentage passing math, reading, and overall by school size
+* Placement of schools overall by score values relative to each other
 
 ## School Summary
 
@@ -29,16 +39,6 @@
 ##
 ##
 
-the analysis was rerun. Since all of the ninth graders from Thomas High School had their scores replaced the particular focus of the analysis re-run was the
-focus on how this adjustment affected the school district analysis was altered. Primary areas of focus were:
-
-* Average math and reading scores at Thomas High School
-* Percentage of students passing according to math scores
-* Percentage of students passing according to reading scores
-* Overall percentage of students who passed both math and reading
-* Percentage passing math, reading, and overall by budget per student
-* Percentage passing math, reading, and overall by school size
-* Placement of schools overall by score values relative to each other
 
 ### Reference metrics
 
