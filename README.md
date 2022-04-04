@@ -45,7 +45,7 @@ focus on how this adjustment affected the school district analysis was altered. 
 These are the screenshot images of the metrics before and after the Thomas High School alterations.
 ![School_District_Analysis_THS_original_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/School_District_Analysis_THS_original_ouput.png)
 
-![THS_modified_ouput] (https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/THS_modified_ouput.png)
+![THS_modified_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/THS_modified_ouput.png)
 -
 
 **Total Students**
@@ -55,7 +55,7 @@ As the data adjustment affected the scores of the ninth-graders but did not remo
 
 - **Total Budget**
 
-![Spending_Summary](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/ResourcesSpending_Summary.png)
+![Spending_Summary](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/Spending_Summary.png)
 
 As the data adjustment dealt with the scores of students and did not alter the budgets of schools, the total budget value remained unaffected by the data adjustment.
 
