@@ -5,7 +5,7 @@
 
 ## Analysis Results
 
-![Step_1](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/step_2.png)
+![Step_2](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/step_2.png)
 
 ## Deliverable 2 : Repeat the school district analysis
 ## District Summary
