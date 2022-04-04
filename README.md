@@ -115,7 +115,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
        
 **After Cleanup - THS count()**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.15.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.15.PNG)
 
 * Scores by school size
 
