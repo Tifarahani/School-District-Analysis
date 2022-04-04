@@ -12,7 +12,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 **Python
 
 
-![name-of-you-image](https://github.com/Dorislava/School_District_Analysis/blob/main/4.1.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.1.PNG)
 
 
 ## Deliverable 2: Repeat the School District Analysis
@@ -29,42 +29,42 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 > Image with `Python`, `Jupyter Notebook` and `Pandas` Code below.
 
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.2.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.2.PNG)
 
 
 **2. The school summary DataFrame.**
 
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.3.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.3.PNG)
 
 **3. The top 5 performing schools, based on the overall passing rate.**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.4.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.4.PNG)
 
 
 **4. The bottom 5 performing schools, based on the overall passing rate.**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.5.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.5.PNG)
 
 **5. The average math score for each grade level from each school.**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.6.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.6.PNG)
 
 
 **6. The average reading score for each grade level from each school.**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.7.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.7.PNG)
 
 
 **7. The scores by school spending per student.**
 
-![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.8.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.8.PNG)
 
 
 **8. The scores by school size.**
 
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.9.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.9.PNGG)
 
 **9. The scores by school type.**
 
@@ -131,7 +131,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
      
  ![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.17.PNG)
  
- ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.18.PNG)
+ ![4.18](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.18.PNG)
      
 3. **Summary:** 
 Overall Passing marks changes and difference for each students funding is ~ $200). 
