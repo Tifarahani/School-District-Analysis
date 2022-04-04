@@ -40,8 +40,7 @@ focus on how this adjustment affected the school district analysis was altered. 
 ### Reference metrics
 
 These are the screenshot images of the metrics before and after the Thomas High School alterations.
-
-![School_District_Analysis_THS_original_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/School_District_Analysis_THS_original_ouput.png)
+![THS_modified_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/THS_modified_ouput.png)
 
 ![THS_modified_ouput](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/THS_modified_ouput.png)
 - **Total Students**
