@@ -131,7 +131,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
      
  ![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.17.PNG)
  
- ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/Resources/4.18.PNG)
+ ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.18.PNG)
      
 3. **Summary:** 
 Overall Passing marks changes and difference for each students funding is ~ $200). 
