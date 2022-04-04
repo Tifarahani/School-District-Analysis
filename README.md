@@ -68,7 +68,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 
 **9. The scores by school type.**
 
-![4.10](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.10.PNG)
+![4.10](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.10.PNG)
 
 
 ## Deliverable 3: A Written Report for the School District Analysis
@@ -82,7 +82,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 
 **Before Cleanup - PyCitySchools file**
 
-![4.11](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.11.PNG)
+![4.11](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.11.PNG)
 
 **AFTER DATA CLEANUP**
 
@@ -95,7 +95,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 **After Cleanup - PyCitySchools_Challenge file**
 
 
-![4.12](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.12.PNG)
+![4.12](https://github.com/Tifarahani/School-District-Analysis_Challange/blob/main/Resources/4.12.PNG)
 
 ### School summary 
 
