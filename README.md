@@ -6,9 +6,6 @@ The school district discovered that the standardized test scores for ninth grade
 
 Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
 
-## School Summary
-## Math and Reading Scores by Grade
-# School_District_Analysis
 ## Resources
 **"Jupyter Notebook, 
 **Pandas
