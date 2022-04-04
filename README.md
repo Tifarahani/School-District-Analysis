@@ -1,6 +1,12 @@
 # The-school-analysis
-The school analysis
+
 ## Deliverable 1: Replace the reading and math scores.
+
+
+## Analysis Results
+
+![Step_1](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/step_1.png)
+
 ## Deliverable 2 : Repeat the school district analysis
 ## District Summary
 
