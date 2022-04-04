@@ -11,7 +11,6 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 **Pandas
 **Python
 
-## Deliverable 1: Replace Ninth-Grade Reading and Math Scores
 
 ![name-of-you-image](https://github.com/Dorislava/School_District_Analysis/blob/main/4.1.PNG)
 
@@ -27,47 +26,49 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
  
 ### Deliverable 2 Results with detail analysis:
 **1. The district summary DataFrame.**
+> Image with `Python`, `Jupyter Notebook` and `Pandas` Code below.
 
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.2.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.2.PNG)
 
 
 **2. The school summary DataFrame.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.3.PNG)
+
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.3.PNG)
 
 **3. The top 5 performing schools, based on the overall passing rate.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.4.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.4.PNG)
 
 
 **4. The bottom 5 performing schools, based on the overall passing rate.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.5.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.5.PNG)
 
 **5. The average math score for each grade level from each school.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.6.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.6.PNG)
 
 
 **6. The average reading score for each grade level from each school.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.7.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.7.PNG)
 
 
 **7. The scores by school spending per student.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.8.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.8.PNG)
 
 
 **8. The scores by school size.**
 
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.9.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.9.PNG)
 
 **9. The scores by school type.**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.10.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.10.PNG)
 
 
 ## Deliverable 3: A Written Report for the School District Analysis
@@ -81,7 +82,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 
 **Before Cleanup - PyCitySchools file**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.11.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.11.PNG)
 
 **AFTER DATA CLEANUP**
 
@@ -94,7 +95,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
 **After Cleanup - PyCitySchools_Challenge file**
 
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.12.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.12.PNG)
 
 ### School summary 
 
@@ -114,7 +115,7 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
        
 **After Cleanup - THS count()**
 
-![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.15.PNG)
+![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.15.PNG)
 
 * Scores by school size
 
@@ -124,13 +125,13 @@ Both math and reading scores were replaced with "NaN", which represents a "Not-a
         
  **School Size"**
      
- ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.16.PNG)
+ ![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.16.PNG)
     
   **THS Spending Bin "$630-644"**
      
- ![name-of-you-image](https://github.com/Tifarahani/School-District-Analysis_Challange/tree/main/4.17.PNG)
+ ![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.17.PNG)
  
- ![name-of-you-image](https://github.com/Dorislava/School_District_Analysis/blob/main/4.18.PNG)
+ ![name-of-you-image](https://github.com/Tifarahani/School_District_Analysis/blob/main/4.18.PNG)
      
 3. **Summary:** 
 Overall Passing marks changes and difference for each students funding is ~ $200). 
